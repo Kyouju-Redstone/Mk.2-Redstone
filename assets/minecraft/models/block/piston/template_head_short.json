@@ -1,0 +1,44 @@
+{
+    "textures": {
+        "particle": "#platform",
+	    "arm_side": "block/piston/regular/side",
+	    "thick_arm": "block/piston/thick_arm"
+    },
+    "elements": [
+        {
+            "_comment": "piston head",
+            "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 4 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16,  4 ], "texture": "#side", "cullface": "down", "rotation": 180 },
+                "up":    { "uv": [ 0, 0, 16,  4 ], "texture": "#side", "cullface": "up" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#platform", "cullface": "north" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#unsticky" },
+                "west":  { "uv": [ 0, 0, 16,  4 ], "texture": "#side", "rotation": 270, "cullface": "west" },
+                "east":  { "uv": [ 0, 0, 16,  4 ], "texture": "#side", "rotation": 90, "cullface": "east" }
+            }
+        },
+        {
+            "_comment": "arm",
+            "from": [ 6, 6, 4 ],
+            "to": [ 10, 10, 16 ],
+            "faces": {
+                "down": { "uv": [  4, 0, 16, 4 ], "texture": "#arm_side", "rotation": 90 },
+                "up":   { "uv": [  4, 0, 16, 4 ], "texture": "#arm_side", "rotation": 270 },
+                "west": { "uv": [ 16, 4,  4, 0 ], "texture": "#arm_side" },
+                "east": { "uv": [  4, 0, 16, 4 ], "texture": "#arm_side" }
+            }
+        },
+	    {
+            "from": [ 5, 5, 11 ],
+            "to": [ 11, 11, 16 ],
+            "faces": {
+                "down": { "uv": [  0, 0, 6, 5 ], "texture": "#thick_arm", "rotation": 180 },
+                "up":   { "uv": [  0, 0, 6, 5 ], "texture": "#thick_arm" },
+		        "north": { "uv": [ 6, 0, 12, 6 ], "texture": "#thick_arm" },
+                "west": { "uv": [  0, 0, 6, 5 ], "texture": "#thick_arm", "rotation": 270 },
+                "east": { "uv": [  0, 0, 6, 5 ], "texture": "#thick_arm", "rotation": 90 }
+            }
+        }
+    ]
+}

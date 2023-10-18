@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/piston/bottom",
+    "side": "minecraft:block/piston/regular/side",
+    "top": "minecraft:block/piston/regular/top"
+  }
+}

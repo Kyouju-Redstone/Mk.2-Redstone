@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/powered_rail/flat",
+  "textures": {
+		"particle": "block/powered_rail/rail_on",
+    "rail": "minecraft:block/powered_rail/rail_on",
+    "sleeper": "minecraft:block/powered_rail/sleeper_on"
+  }
+}

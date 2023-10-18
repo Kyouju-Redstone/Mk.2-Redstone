@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cauldron/template/3",
+  "textures": {
+    "content": "minecraft:block/powder_snow",
+    "outside": "minecraft:block/powder_snow_cauldron/outside/3"
+  }
+}

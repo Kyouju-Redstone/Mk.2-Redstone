@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/redstone_dust/power",
+    "textures": {
+        "power": "block/redstone_dust/15"
+    }
+}
