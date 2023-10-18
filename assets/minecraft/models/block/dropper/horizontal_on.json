@@ -1,0 +1,11 @@
+{
+    "parent": "block/dispenser/horizontal_on",
+    "textures": {
+        "top": "block/dropper/top_on",
+        "front": "block/dropper/front_on",
+        "side_east": "block/dropper/side_east_on",
+        "side_west": "block/dropper/side_west_on",
+        "back": "block/dropper/back_on",
+        "particle": "block/dropper/front_on"
+    }
+}

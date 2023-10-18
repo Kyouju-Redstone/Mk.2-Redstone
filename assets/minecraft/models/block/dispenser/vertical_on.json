@@ -1,0 +1,9 @@
+{
+    "parent": "block/dispenser/vertical",
+    "textures": {
+	    "bottom": "block/dispenser/bottom_on",
+        "front": "block/dispenser/front_vertical_on",
+        "side": "block/dispenser/top_on",
+        "particle": "block/dispenser/top_on"
+    }
+}

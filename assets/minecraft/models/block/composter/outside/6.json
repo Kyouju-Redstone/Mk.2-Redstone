@@ -1,0 +1,6 @@
+{
+    "parent": "block/composter/template_outside",
+    "textures": {
+        "outside": "block/composter/outside/6"
+    }
+}

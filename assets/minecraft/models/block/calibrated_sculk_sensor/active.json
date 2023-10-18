@@ -1,0 +1,11 @@
+{
+    "parent": "block/calibrated_sculk_sensor",
+    "textures": {
+        "amethyst": "block/calibrated_sculk_sensor/amethyst_on",
+        "bottom": "block/sculk_sensor/bottom_on",
+        "calibrated_side": "block/calibrated_sculk_sensor/input_side_on",
+        "tendrils": "block/sculk_sensor/tendril_active",
+        "top": "block/calibrated_sculk_sensor/top_on",
+        "particle": "block/sculk_sensor/bottom_on"
+    }
+}

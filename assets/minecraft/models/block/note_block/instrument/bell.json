@@ -1,0 +1,7 @@
+{
+    "parent": "block/note_block/template_instrument",
+    "textures": {
+		"particle": "block/note_block/instrument/bell",
+		"instrument": "block/note_block/instrument/bell"
+    }
+}

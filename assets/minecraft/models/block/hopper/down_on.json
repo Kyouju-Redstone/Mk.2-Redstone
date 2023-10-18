@@ -1,0 +1,12 @@
+{
+    "ambientocclusion": false,
+    "parent": "block/hopper/down",
+    "textures": {
+        "particle": "block/hopper/outside",
+        "top": "block/hopper/top",
+        "side": "block/hopper/outside",
+	    "side_arrow": "block/hopper/side_downward_on",
+        "inside": "block/hopper/inside_downward_on",
+        "bottom": "block/hopper/bottom_on"
+    }
+}

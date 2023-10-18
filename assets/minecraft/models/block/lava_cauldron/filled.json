@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cauldron/template/3",
+  "textures": {
+    "content": "minecraft:block/lava_still",
+    "outside": "minecraft:block/lava_cauldron/outside"
+  }
+}
