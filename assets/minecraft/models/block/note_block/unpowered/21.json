@@ -1,0 +1,7 @@
+{
+    "parent": "block/note_block/template_note",
+    "textures": {
+        "particle": "block/note_block/unpowered/21",
+        "note": "block/note_block/unpowered/21"
+    }
+}
