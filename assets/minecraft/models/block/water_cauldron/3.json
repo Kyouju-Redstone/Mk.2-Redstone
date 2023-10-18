@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/cauldron/template/3",
+    "textures": {
+        "content": "minecraft:block/water_still",
+        "outside": "minecraft:block/water_cauldron/outside/3"
+    }
+}

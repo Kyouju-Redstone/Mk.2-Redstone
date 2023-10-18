@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/tripwire/n",
+    "textures": {
+		"particle": "block/tripwire/powered",
+        "texture": "block/tripwire/powered"
+    }
+}
