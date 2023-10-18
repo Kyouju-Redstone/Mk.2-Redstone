@@ -1,0 +1,77 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/hopper_guide.png",
+            "ascent": 13,
+            "height": 180,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/chest_guide.png",
+            "ascent": 13,
+            "height": 180,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/dispenser_guide.png",
+            "ascent": 13,
+            "height": 180,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/large_chest_guide.png",
+            "ascent": 13,
+            "height": 180,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/furnace_guide.png",
+            "ascent": 13,
+            "height": 180,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/smelting_guide.png",
+            "ascent": 13,
+            "height": 169,
+            "chars": [
+                "\uE006"
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/comparator.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/max.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE061"
+            ]
+        }
+    ]
+}
