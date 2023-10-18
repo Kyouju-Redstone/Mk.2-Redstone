@@ -1,0 +1,224 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/dot"
+      },
+      "when": {
+        "OR": [
+          {
+            "east": "none",
+            "north": "none",
+            "south": "none",
+            "west": "none"
+          },
+          {
+            "east": "side|up",
+            "north": "side|up"
+          },
+          {
+            "east": "side|up",
+            "south": "side|up"
+          },
+          {
+            "south": "side|up",
+            "west": "side|up"
+          },
+          {
+            "north": "side|up",
+            "west": "side|up"
+          }
+        ]
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/side0"
+      },
+      "when": {
+        "north": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/side_alt0"
+      },
+      "when": {
+        "south": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/side_alt1",
+        "y": 270
+      },
+      "when": {
+        "east": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/side1",
+        "y": 270
+      },
+      "when": {
+        "west": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/up"
+      },
+      "when": {
+        "north": "up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/up",
+        "y": 90
+      },
+      "when": {
+        "east": "up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/up",
+        "y": 180
+      },
+      "when": {
+        "south": "up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/up",
+        "y": 270
+      },
+      "when": {
+        "west": "up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/1"
+      },
+      "when": {
+        "power": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/2"
+      },
+      "when": {
+        "power": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/3"
+      },
+      "when": {
+        "power": "3"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/4"
+      },
+      "when": {
+        "power": "4"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/5"
+      },
+      "when": {
+        "power": "5"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/6"
+      },
+      "when": {
+        "power": "6"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/7"
+      },
+      "when": {
+        "power": "7"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/8"
+      },
+      "when": {
+        "power": "8"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/9"
+      },
+      "when": {
+        "power": "9"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/10"
+      },
+      "when": {
+        "power": "10"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/11"
+      },
+      "when": {
+        "power": "11"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/12"
+      },
+      "when": {
+        "power": "12"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/13"
+      },
+      "when": {
+        "power": "13"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/14"
+      },
+      "when": {
+        "power": "14"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust/15"
+      },
+      "when": {
+        "power": "15"
+      }
+    }
+  ]
+}

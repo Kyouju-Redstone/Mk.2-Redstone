@@ -1,0 +1,100 @@
+{
+    "variants": {
+        "inverted=false,power=0": {
+            "model": "block/daylight_detector/uninverted/0"
+        },
+        "inverted=false,power=1": {
+            "model": "block/daylight_detector/uninverted/1"
+        },
+        "inverted=false,power=2": {
+            "model": "block/daylight_detector/uninverted/2"
+        },
+        "inverted=false,power=3": {
+            "model": "block/daylight_detector/uninverted/3"
+        },
+        "inverted=false,power=4": {
+            "model": "block/daylight_detector/uninverted/4"
+        },
+        "inverted=false,power=5": {
+            "model": "block/daylight_detector/uninverted/5"
+        },
+        "inverted=false,power=6": {
+            "model": "block/daylight_detector/uninverted/6"
+        },
+        "inverted=false,power=7": {
+            "model": "block/daylight_detector/uninverted/7"
+        },
+        "inverted=false,power=8": {
+            "model": "block/daylight_detector/uninverted/8"
+        },
+        "inverted=false,power=9": {
+            "model": "block/daylight_detector/uninverted/9"
+        },
+        "inverted=false,power=10": {
+            "model": "block/daylight_detector/uninverted/10"
+        },
+        "inverted=false,power=11": {
+            "model": "block/daylight_detector/uninverted/11"
+        },
+        "inverted=false,power=12": {
+            "model": "block/daylight_detector/uninverted/12"
+        },
+        "inverted=false,power=13": {
+            "model": "block/daylight_detector/uninverted/13"
+        },
+        "inverted=false,power=14": {
+            "model": "block/daylight_detector/uninverted/14"
+        },
+        "inverted=false,power=15": {
+            "model": "block/daylight_detector/uninverted/15"
+        },
+        "inverted=true,power=0": {
+            "model": "block/daylight_detector/inverted/0"
+        },
+        "inverted=true,power=1": {
+            "model": "block/daylight_detector/inverted/1"
+        },
+        "inverted=true,power=2": {
+            "model": "block/daylight_detector/inverted/2"
+        },
+        "inverted=true,power=3": {
+            "model": "block/daylight_detector/inverted/3"
+        },
+        "inverted=true,power=4": {
+            "model": "block/daylight_detector/inverted/4"
+        },
+        "inverted=true,power=5": {
+            "model": "block/daylight_detector/inverted/5"
+        },
+        "inverted=true,power=6": {
+            "model": "block/daylight_detector/inverted/6"
+        },
+        "inverted=true,power=7": {
+            "model": "block/daylight_detector/inverted/7"
+        },
+        "inverted=true,power=8": {
+            "model": "block/daylight_detector/inverted/8"
+        },
+        "inverted=true,power=9": {
+            "model": "block/daylight_detector/inverted/9"
+        },
+        "inverted=true,power=10": {
+            "model": "block/daylight_detector/inverted/10"
+        },
+        "inverted=true,power=11": {
+            "model": "block/daylight_detector/inverted/11"
+        },
+        "inverted=true,power=12": {
+            "model": "block/daylight_detector/inverted/12"
+        },
+        "inverted=true,power=13": {
+            "model": "block/daylight_detector/inverted/13"
+        },
+        "inverted=true,power=14": {
+            "model": "block/daylight_detector/inverted/14"
+        },
+        "inverted=true,power=15": {
+            "model": "block/daylight_detector/inverted/15"
+        }
+    }
+}

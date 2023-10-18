@@ -1,0 +1,582 @@
+{
+    "multipart": [
+        {
+            "when": {
+                "note": "0",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/0"
+            }
+        },
+        {
+            "when": {
+                "note": "1",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/1"
+            }
+        },
+        {
+            "when": {
+                "note": "2",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/2"
+            }
+        },
+        {
+            "when": {
+                "note": "3",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/3"
+            }
+        },
+        {
+            "when": {
+                "note": "4",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/4"
+            }
+        },
+        {
+            "when": {
+                "note": "5",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/5"
+            }
+        },
+        {
+            "when": {
+                "note": "6",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/6"
+            }
+        },
+        {
+            "when": {
+                "note": "7",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/7"
+            }
+        },
+        {
+            "when": {
+                "note": "8",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/8"
+            }
+        },
+        {
+            "when": {
+                "note": "9",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/9"
+            }
+        },
+        {
+            "when": {
+                "note": "10",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/10"
+            }
+        },
+        {
+            "when": {
+                "note": "11",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/11"
+            }
+        },
+        {
+            "when": {
+                "note": "12",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/12"
+            }
+        },
+        {
+            "when": {
+                "note": "13",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/13"
+            }
+        },
+        {
+            "when": {
+                "note": "14",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/14"
+            }
+        },
+        {
+            "when": {
+                "note": "15",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/15"
+            }
+        },
+        {
+            "when": {
+                "note": "16",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/16"
+            }
+        },
+        {
+            "when": {
+                "note": "17",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/17"
+            }
+        },
+        {
+            "when": {
+                "note": "18",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/18"
+            }
+        },
+        {
+            "when": {
+                "note": "19",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/19"
+            }
+        },
+        {
+            "when": {
+                "note": "20",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/20"
+            }
+        },
+        {
+            "when": {
+                "note": "21",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/21"
+            }
+        },
+        {
+            "when": {
+                "note": "22",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/22"
+            }
+        },
+        {
+            "when": {
+                "note": "23",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/23"
+            }
+        },
+        {
+            "when": {
+                "note": "24",
+                "powered": "false"
+            },
+            "apply": {
+                "model": "block/note_block/unpowered/24"
+            }
+        },
+        {
+            "when": {
+                "note": "0",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/0"
+            }
+        },
+        {
+            "when": {
+                "note": "1",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/1"
+            }
+        },
+        {
+            "when": {
+                "note": "2",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/2"
+            }
+        },
+        {
+            "when": {
+                "note": "3",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/3"
+            }
+        },
+        {
+            "when": {
+                "note": "4",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/4"
+            }
+        },
+        {
+            "when": {
+                "note": "5",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/5"
+            }
+        },
+        {
+            "when": {
+                "note": "6",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/6"
+            }
+        },
+        {
+            "when": {
+                "note": "7",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/7"
+            }
+        },
+        {
+            "when": {
+                "note": "8",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/8"
+            }
+        },
+        {
+            "when": {
+                "note": "9",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/9"
+            }
+        },
+        {
+            "when": {
+                "note": "10",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/10"
+            }
+        },
+        {
+            "when": {
+                "note": "11",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/11"
+            }
+        },
+        {
+            "when": {
+                "note": "12",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/12"
+            }
+        },
+        {
+            "when": {
+                "note": "13",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/13"
+            }
+        },
+        {
+            "when": {
+                "note": "14",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/14"
+            }
+        },
+        {
+            "when": {
+                "note": "15",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/15"
+            }
+        },
+        {
+            "when": {
+                "note": "16",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/16"
+            }
+        },
+        {
+            "when": {
+                "note": "17",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/17"
+            }
+        },
+        {
+            "when": {
+                "note": "18",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/18"
+            }
+        },
+        {
+            "when": {
+                "note": "19",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/19"
+            }
+        },
+        {
+            "when": {
+                "note": "20",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/20"
+            }
+        },
+        {
+            "when": {
+                "note": "21",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/21"
+            }
+        },
+        {
+            "when": {
+                "note": "22",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/22"
+            }
+        },
+        {
+            "when": {
+                "note": "23",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/23"
+            }
+        },
+        {
+            "when": {
+                "note": "24",
+                "powered": "true"
+            },
+            "apply": {
+                "model": "block/note_block/powered/24"
+            }
+        },
+        {
+            "when": {
+                "instrument": "bass"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/bass"
+            }
+        },
+        {
+            "when": {
+                "instrument": "snare"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/snare"
+            }
+        },
+        {
+            "when": {
+                "instrument": "hat"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/hat"
+            }
+        },
+        {
+            "when": {
+                "instrument": "basedrum"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/basedrum"
+            }
+        },
+        {
+            "when": {
+                "instrument": "bell"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/bell"
+            }
+        },
+        {
+            "when": {
+                "instrument": "flute"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/flute"
+            }
+        },
+        {
+            "when": {
+                "instrument": "chime"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/chime"
+            }
+        },
+        {
+            "when": {
+                "instrument": "guitar"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/guitar"
+            }
+        },
+        {
+            "when": {
+                "instrument": "xylophone"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/xylophone"
+            }
+        },
+        {
+            "when": {
+                "instrument": "iron_xylophone"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/iron_xylophone"
+            }
+        },
+        {
+            "when": {
+                "instrument": "cow_bell"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/cow_bell"
+            }
+        },
+        {
+            "when": {
+                "instrument": "didgeridoo"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/didgeridoo"
+            }
+        },
+        {
+            "when": {
+                "instrument": "bit"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/bit"
+            }
+        },
+        {
+            "when": {
+                "instrument": "banjo"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/banjo"
+            }
+        },
+        {
+            "when": {
+                "instrument": "pling"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/pling"
+            }
+        },
+        {
+            "when": {
+                "instrument": "harp"
+            },
+            "apply": {
+                "model": "block/note_block/instrument/harp"
+            }
+        }
+    ]
+}

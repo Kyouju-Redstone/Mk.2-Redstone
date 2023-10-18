@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "has_record=false": {
+      "model": "minecraft:block/jukebox/off"
+    },
+    "has_record=true": {
+      "model": "minecraft:block/jukebox/on"
+    }
+  }
+}

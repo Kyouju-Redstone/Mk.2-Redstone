@@ -1,0 +1,244 @@
+{
+  "variants": {
+    "delay=1,facing=east,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/1",
+      "y": 270
+    },
+    "delay=1,facing=east,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/1_on",
+      "y": 270
+    },
+    "delay=1,facing=east,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/1_locked",
+      "y": 270
+    },
+    "delay=1,facing=east,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/1_on_locked",
+      "y": 270
+    },
+    "delay=1,facing=north,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/1",
+      "y": 180
+    },
+    "delay=1,facing=north,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/1_on",
+      "y": 180
+    },
+    "delay=1,facing=north,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/1_locked",
+      "y": 180
+    },
+    "delay=1,facing=north,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/1_on_locked",
+      "y": 180
+    },
+    "delay=1,facing=south,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/1"
+    },
+    "delay=1,facing=south,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/1_on"
+    },
+    "delay=1,facing=south,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/1_locked"
+    },
+    "delay=1,facing=south,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/1_on_locked"
+    },
+    "delay=1,facing=west,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/1",
+      "y": 90
+    },
+    "delay=1,facing=west,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/1_on",
+      "y": 90
+    },
+    "delay=1,facing=west,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/1_locked",
+      "y": 90
+    },
+    "delay=1,facing=west,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/1_on_locked",
+      "y": 90
+    },
+    "delay=2,facing=east,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/2",
+      "y": 270
+    },
+    "delay=2,facing=east,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/2_on",
+      "y": 270
+    },
+    "delay=2,facing=east,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/2_locked",
+      "y": 270
+    },
+    "delay=2,facing=east,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/2_on_locked",
+      "y": 270
+    },
+    "delay=2,facing=north,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/2",
+      "y": 180
+    },
+    "delay=2,facing=north,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/2_on",
+      "y": 180
+    },
+    "delay=2,facing=north,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/2_locked",
+      "y": 180
+    },
+    "delay=2,facing=north,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/2_on_locked",
+      "y": 180
+    },
+    "delay=2,facing=south,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/2"
+    },
+    "delay=2,facing=south,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/2_on"
+    },
+    "delay=2,facing=south,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/2_locked"
+    },
+    "delay=2,facing=south,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/2_on_locked"
+    },
+    "delay=2,facing=west,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/2",
+      "y": 90
+    },
+    "delay=2,facing=west,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/2_on",
+      "y": 90
+    },
+    "delay=2,facing=west,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/2_locked",
+      "y": 90
+    },
+    "delay=2,facing=west,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/2_on_locked",
+      "y": 90
+    },
+    "delay=3,facing=east,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/3",
+      "y": 270
+    },
+    "delay=3,facing=east,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/3_on",
+      "y": 270
+    },
+    "delay=3,facing=east,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/3_locked",
+      "y": 270
+    },
+    "delay=3,facing=east,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/3_on_locked",
+      "y": 270
+    },
+    "delay=3,facing=north,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/3",
+      "y": 180
+    },
+    "delay=3,facing=north,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/3_on",
+      "y": 180
+    },
+    "delay=3,facing=north,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/3_locked",
+      "y": 180
+    },
+    "delay=3,facing=north,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/3_on_locked",
+      "y": 180
+    },
+    "delay=3,facing=south,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/3"
+    },
+    "delay=3,facing=south,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/3_on"
+    },
+    "delay=3,facing=south,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/3_locked"
+    },
+    "delay=3,facing=south,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/3_on_locked"
+    },
+    "delay=3,facing=west,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/3",
+      "y": 90
+    },
+    "delay=3,facing=west,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/3_on",
+      "y": 90
+    },
+    "delay=3,facing=west,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/3_locked",
+      "y": 90
+    },
+    "delay=3,facing=west,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/3_on_locked",
+      "y": 90
+    },
+    "delay=4,facing=east,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/4",
+      "y": 270
+    },
+    "delay=4,facing=east,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/4_on",
+      "y": 270
+    },
+    "delay=4,facing=east,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/4_locked",
+      "y": 270
+    },
+    "delay=4,facing=east,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/4_on_locked",
+      "y": 270
+    },
+    "delay=4,facing=north,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/4",
+      "y": 180
+    },
+    "delay=4,facing=north,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/4_on",
+      "y": 180
+    },
+    "delay=4,facing=north,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/4_locked",
+      "y": 180
+    },
+    "delay=4,facing=north,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/4_on_locked",
+      "y": 180
+    },
+    "delay=4,facing=south,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/4"
+    },
+    "delay=4,facing=south,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/4_on"
+    },
+    "delay=4,facing=south,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/4_locked"
+    },
+    "delay=4,facing=south,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/4_on_locked"
+    },
+    "delay=4,facing=west,locked=false,powered=false": {
+      "model": "minecraft:block/repeater/4",
+      "y": 90
+    },
+    "delay=4,facing=west,locked=false,powered=true": {
+      "model": "minecraft:block/repeater/4_on",
+      "y": 90
+    },
+    "delay=4,facing=west,locked=true,powered=false": {
+      "model": "minecraft:block/repeater/4_locked",
+      "y": 90
+    },
+    "delay=4,facing=west,locked=true,powered=true": {
+      "model": "minecraft:block/repeater/4_on_locked",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,sculk_sensor_phase=active": {
+      "model": "minecraft:block/calibrated_sculk_sensor/active",
+      "y": 90
+    },
+    "facing=east,sculk_sensor_phase=cooldown": {
+      "model": "minecraft:block/calibrated_sculk_sensor/active",
+      "y": 90
+    },
+    "facing=east,sculk_sensor_phase=inactive": {
+      "model": "minecraft:block/calibrated_sculk_sensor/inactive",
+      "y": 90
+    },
+    "facing=north,sculk_sensor_phase=active": {
+      "model": "minecraft:block/calibrated_sculk_sensor/active"
+    },
+    "facing=north,sculk_sensor_phase=cooldown": {
+      "model": "minecraft:block/calibrated_sculk_sensor/active"
+    },
+    "facing=north,sculk_sensor_phase=inactive": {
+      "model": "minecraft:block/calibrated_sculk_sensor/inactive"
+    },
+    "facing=south,sculk_sensor_phase=active": {
+      "model": "minecraft:block/calibrated_sculk_sensor/active",
+      "y": 180
+    },
+    "facing=south,sculk_sensor_phase=cooldown": {
+      "model": "minecraft:block/calibrated_sculk_sensor/active",
+      "y": 180
+    },
+    "facing=south,sculk_sensor_phase=inactive": {
+      "model": "minecraft:block/calibrated_sculk_sensor/inactive",
+      "y": 180
+    },
+    "facing=west,sculk_sensor_phase=active": {
+      "model": "minecraft:block/calibrated_sculk_sensor/active",
+      "y": 270
+    },
+    "facing=west,sculk_sensor_phase=cooldown": {
+      "model": "minecraft:block/calibrated_sculk_sensor/active",
+      "y": 270
+    },
+    "facing=west,sculk_sensor_phase=inactive": {
+      "model": "minecraft:block/calibrated_sculk_sensor/inactive",
+      "y": 270
+    }
+  }
+}
