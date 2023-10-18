@@ -1,0 +1,7 @@
+{
+    "parent": "block/note_block/template_instrument",
+    "textures": {
+		"particle": "block/note_block/instrument/iron_xylophone",
+		"instrument": "block/note_block/instrument/iron_xylophone"
+    }
+}
