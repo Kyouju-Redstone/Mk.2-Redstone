@@ -5,7 +5,7 @@
         "top": "block/composter/top",
         "bottom": "block/composter/bottom",
         "inside": "block/composter/inside",
-        "outside": "block/composter/outside/0"
+        "outside": "block/composter/outside/base"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

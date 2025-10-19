@@ -1,7 +1,19 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/lava_cauldron/filled"
-    }
-  }
+    "multipart": [
+        {
+            "apply": {
+                "model": "minecraft:block/cauldron/filled"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/lava_cauldron/content"
+            }
+        },
+        {
+            "apply": {
+                "model": "minecraft:block/lava_cauldron/content_side"
+            }
+        }
+    ]
 }
