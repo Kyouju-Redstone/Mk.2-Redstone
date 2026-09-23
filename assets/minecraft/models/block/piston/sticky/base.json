@@ -2,7 +2,7 @@
     "parent": "block/piston/template_extended",
     "textures": {
         "bottom": "block/piston/sticky/bottom_on",
-        "side": "block/piston/side_on",
-        "inside": "block/piston/inner"
+        "side": "block/piston/sticky/side_on",
+        "inside": "block/piston/sticky/inner"
     }
 }
