@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cauldron/template_content_side",
+    "textures": {
+        "content_side": "minecraft:block/powder_snow_cauldron/content_side/2"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cauldron/template_content_3",
+    "textures": {
+        "content": "minecraft:block/lava_still"
+    }
+}

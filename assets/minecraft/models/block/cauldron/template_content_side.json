@@ -1,0 +1,40 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"inside": "block/cauldron/inside"
+	},
+	"elements": [
+		{
+			"from": [ 0, 5, 7 ],
+			"to": [ 2, 14, 9 ],
+			"faces": {
+				"east": { "texture": "#inside" },
+				"west": { "texture": "#content_side" }
+			}
+		},
+		{
+			"from": [ 14, 5, 7 ],
+			"to": [ 16, 14, 9 ],
+			"faces": {
+				"east": { "texture": "#content_side" },
+				"west": { "texture": "#inside" }
+			}
+		},
+		{
+			"from": [ 7, 5, 0 ],
+			"to": [ 9, 14, 2 ],
+			"faces": {
+				"north": { "texture": "#content_side" },
+				"south": { "texture": "#inside" }
+			}
+		},
+		{
+			"from": [ 7, 5, 14 ],
+			"to": [ 9, 14, 16 ],
+			"faces": {
+				"north": { "texture": "#inside" },
+				"south": { "texture": "#content_side" }
+			}
+		}
+	]
+}
