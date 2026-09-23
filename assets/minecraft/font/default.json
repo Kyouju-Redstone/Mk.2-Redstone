@@ -54,7 +54,15 @@
                 "\uE006"
             ]
         },
-
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/container/crafter_guide.png",
+            "ascent": 13,
+            "height": 154,
+            "chars": [
+                "\uE007"
+            ]
+        },
         {
             "type": "bitmap",
             "file": "minecraft:font/comparator.png",
