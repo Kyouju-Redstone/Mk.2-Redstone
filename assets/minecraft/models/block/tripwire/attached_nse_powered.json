@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:block/tripwire/attached_nse",
-    "textures": {
-		"particle": "block/tripwire/powered",
-        "texture": "block/tripwire/powered"
-    }
-}

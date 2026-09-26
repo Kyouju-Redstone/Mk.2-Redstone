@@ -1,11 +1,11 @@
 {
-	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/tripwire/unpowered",
 		"texture": "block/tripwire/unpowered"
 	},
 	"elements": [
-		{   "from": [ 7.75, 1.5, 0 ],
+		{
+            "from": [ 7.75, 1.5, 0 ],
             "to": [ 8.25, 1.5, 4 ],
             "shade": false,
             "faces": {
@@ -13,7 +13,8 @@
                 "up":    { "uv": [ 0,  0, 16,  2 ], "texture": "#texture", "rotation": 90 }
             }
         },
-		{   "from": [ 8, 1.25, 0 ],
+		{
+            "from": [ 8, 1.25, 0 ],
 			"to": [ 8, 1.75, 4 ],
 			"shade": false,
 			"faces": {
@@ -21,7 +22,8 @@
 				"west":  { "uv": [ 0,  2, 16,  4 ], "texture": "#texture" }
 			}
 		},
-		{   "from": [ 7.75, 1.5, 4 ],
+		{
+            "from": [ 7.75, 1.5, 4 ],
             "to": [ 8.25, 1.5, 8 ],
             "shade": false,
             "faces": {
@@ -29,7 +31,8 @@
                 "up":    { "uv": [ 0,  0, 16,  2 ], "texture": "#texture", "rotation": 90 }
             }
         },
-        {   "from": [ 8, 1.25, 4 ],
+        {
+            "from": [ 8, 1.25, 4 ],
 			"to": [ 8, 1.75, 8 ],
 			"shade": false,
 			"faces": {
@@ -37,7 +40,8 @@
 				"west":  { "uv": [ 0,  2, 16,  4 ], "texture": "#texture" }
 			}
 		},
-        {   "from": [ 7.75, 1.5, 8 ],
+        {
+            "from": [ 7.75, 1.5, 8 ],
             "to": [ 8.25, 1.5, 12 ],
             "shade": false,
             "faces": {
@@ -45,7 +49,8 @@
                 "up":    { "uv": [ 0,  0, 16,  2 ], "texture": "#texture", "rotation": 90 }
             }
         },
-        {   "from": [ 8, 1.25, 8 ],
+        {
+            "from": [ 8, 1.25, 8 ],
 			"to": [ 8, 1.75, 12 ],
 			"shade": false,
 			"faces": {
