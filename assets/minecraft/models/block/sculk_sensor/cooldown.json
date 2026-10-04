@@ -3,7 +3,7 @@
     "textures": {
         "bottom": "block/sculk_sensor/bottom",
         "side": "block/sculk_sensor/side",
-        "tendrils": "block/sculk_sensor/tendril_inactive",
+        "tendrils": "block/sculk_sensor/tendril_active",
         "top": "block/sculk_sensor/top"
     }
 }
